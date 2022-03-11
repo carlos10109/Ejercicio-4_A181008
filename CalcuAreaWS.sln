@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcuAreaWS", "CalcuAreaWS\CalcuAreaWS.csproj", "{8BE7192F-4E28-4A4B-B0B3-8B91FF8A7575}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCalculator", "AreaCalculator\AreaCalculator.csproj", "{BF566486-E77D-411E-9C13-60214B424FD7}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8BE7192F-4E28-4A4B-B0B3-8B91FF8A7575} = {8BE7192F-4E28-4A4B-B0B3-8B91FF8A7575}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BE7192F-4E28-4A4B-B0B3-8B91FF8A7575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE7192F-4E28-4A4B-B0B3-8B91FF8A7575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE7192F-4E28-4A4B-B0B3-8B91FF8A7575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE7192F-4E28-4A4B-B0B3-8B91FF8A7575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF566486-E77D-411E-9C13-60214B424FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF566486-E77D-411E-9C13-60214B424FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF566486-E77D-411E-9C13-60214B424FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF566486-E77D-411E-9C13-60214B424FD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38526035-3ECE-48C0-BBBD-37E748910B27}
+	EndGlobalSection
+EndGlobal
