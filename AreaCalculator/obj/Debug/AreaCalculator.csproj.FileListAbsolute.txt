@@ -1,0 +1,10 @@
+C:\Users\1082537275\source\repos\CalcuAreaWS\AreaCalculator\bin\Debug\AreaCalculator.exe.config
+C:\Users\1082537275\source\repos\CalcuAreaWS\AreaCalculator\bin\Debug\AreaCalculator.exe
+C:\Users\1082537275\source\repos\CalcuAreaWS\AreaCalculator\bin\Debug\AreaCalculator.pdb
+C:\Users\1082537275\source\repos\CalcuAreaWS\AreaCalculator\obj\Debug\AreaCalculator.csprojAssemblyReference.cache
+C:\Users\1082537275\source\repos\CalcuAreaWS\AreaCalculator\obj\Debug\AreaCalculator.Form1.resources
+C:\Users\1082537275\source\repos\CalcuAreaWS\AreaCalculator\obj\Debug\AreaCalculator.Properties.Resources.resources
+C:\Users\1082537275\source\repos\CalcuAreaWS\AreaCalculator\obj\Debug\AreaCalculator.csproj.GenerateResource.cache
+C:\Users\1082537275\source\repos\CalcuAreaWS\AreaCalculator\obj\Debug\AreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\1082537275\source\repos\CalcuAreaWS\AreaCalculator\obj\Debug\AreaCalculator.exe
+C:\Users\1082537275\source\repos\CalcuAreaWS\AreaCalculator\obj\Debug\AreaCalculator.pdb
